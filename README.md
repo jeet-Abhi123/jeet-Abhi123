@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there, I'm Abhijeet </h1> 👋
+<h1 align="center"> Hi there, I'm Abhijeet 👋 </h1> 
 
 
 - 🔭 I’m currently studying at Indian Institue of Information Technology Nagpur <br>
